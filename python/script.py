@@ -416,12 +416,11 @@ def save_events_to_file(events, filename):
         json.dump(events, file, indent=4)
 
 def load_events_from_file(filename):
-    data_dir = 'data'
+    data_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data')
     file_path = os.path.join(data_dir, filename)
     with open(file_path, 'r') as file:
         events = json.load(file)
     return events
-
 
 def get_events_filename():
     current_date = date.today().strftime("%Y-%m-%d")
