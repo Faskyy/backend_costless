@@ -1,8 +1,5 @@
 # .vscode directory
 .vscode/
 
-# Data directory
-data/
-
 # Environment variables
 .env
