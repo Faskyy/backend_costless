@@ -14,6 +14,8 @@ import shutil
 import os
 from random import randint, uniform, choice
 from dotenv import load_dotenv
+import pytz
+
 
 load_dotenv()
 app = Flask(__name__)
@@ -423,7 +425,7 @@ def load_events_from_file(filename):
     return events
 
 def get_events_filename():
-    current_date = date.today().strftime("%Y-%m-%d")
+    current_date = datetime.datetime.now(pytz.utc).date()
     filename = f"events_{current_date}.json"
     return filename
 
