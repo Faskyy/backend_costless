@@ -142,6 +142,11 @@ def infer_activity_type(event_name, event_description):
     return 'Entertainment'  # return 'Entertainment' if no matching keywords are found
 
 
+def get_events_filename():
+    current_date = date.today().strftime("%Y-%m-%d")
+    filename = f"events_{current_date}.json"
+    return filename
+    
 @app.route('/events')
 def get_events():
     today_events = load_events_from_file(get_events_filename())
@@ -418,14 +423,15 @@ def save_events_to_file(events, filename):
 def load_events_from_file(filename):
     data_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data')
     file_path = os.path.join(data_dir, filename)
-    with open(file_path, 'r') as file:
-        events = json.load(file)
+    
+    try:
+        with open(file_path, 'r') as file:
+            events = json.load(file)
+    except FileNotFoundError:
+        events = []
+    
     return events
 
-def get_events_filename():
-    current_date = date.today().strftime("%Y-%m-%d")
-    filename = f"events_{current_date}.json"
-    return filename
 
 def convert_date(date_str):
     # Parse the date and time from the ISO string
@@ -438,12 +444,6 @@ def convert_date(date_str):
 def main():
     current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     print(f"SCRIPT RUNNING, EXECUTED AT {current_time}")
-
-def get_events_filename():
-    current_date = date.today().strftime("%Y-%m-%d")
-    filename = f"events_{current_date}.json"
-    return filename
-
 
 if __name__ == '__main__':
     # Load previously saved events from the file
