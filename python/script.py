@@ -291,6 +291,8 @@ def parse_event(event):
     if "New York" not in address:
         address = f"{address}, New York, NY"
 
+    first_sentence = re.split(r'(?<=[.!?])\s+', description)[0]
+
     # Extract address components
     street = ''
     city = ''
@@ -334,7 +336,7 @@ def parse_event(event):
     # Create the event dictionary
     event_dict = {
         'name': name,
-        'description': description,
+        'description': first_sentence,
         'date': date_str,
         'address': address,
         'activity_type': activity_type  # Add inferred activity type to the dictionary

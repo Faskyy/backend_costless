@@ -997,5 +997,428 @@
         "activity_type": "Art",
         "latitude": 40.63827139054526,
         "longitude": -74.03087238450557
+    },
+    {
+        "name": "Upper Best Side Comedy At E's Bar \u2013 See Acts From Colbert On The Uws!",
+        "description": "Swing by e's Bar for the hottest comedy show on the Upper West Side!",
+        "date": "June 12 @ 8pm - 9pm",
+        "address": "e's BAR, 511 Amsterdam Avenue, New York, NY 10024",
+        "activity_type": "Bar",
+        "latitude": 40.78662627604738,
+        "longitude": -73.97539740288835
+    },
+    {
+        "name": "I Luv R&B Monday",
+        "description": "P\ufeffRESENTED TO YOU BY @THEREALSAMMYDOLLA @NEPTUUUUUNE_ @MYST.LOUNGE",
+        "date": "June 12 - June 13 @ 8pm - 2am",
+        "address": "Myst Lounge, 2086 Coney Island Avenue, Brooklyn, NY 11223, New York, NY",
+        "activity_type": "Lounge",
+        "latitude": 40.6062250579369,
+        "longitude": -73.96217345850447
+    },
+    {
+        "name": "Friends Trivia",
+        "description": "Did you major in lightning rounds?",
+        "date": "June 12 @ 8pm - 9:30pm",
+        "address": "Connolly's Bar, 155 Beach 95th Street, Queens, NY 11693, New York, NY",
+        "activity_type": "Trivia",
+        "latitude": 40.58436398383587,
+        "longitude": -73.8166301063017
+    },
+    {
+        "name": "Soca After Work Tuesdays @ Charm Bar!!! Downtown Brooklyn!!! #Socialcityent",
+        "description": "EACH &amp; EVERY TUESDAY!!!!",
+        "date": "June 13 - June 14 @ 4pm - 12am",
+        "address": "Charm Bar & Restaurant, 448 Dean Street, Brooklyn, NY 11217, New York, NY",
+        "activity_type": "Bar",
+        "latitude": 40.68192103539474,
+        "longitude": -73.97626605686163
+    },
+    {
+        "name": "Tuesday Tings",
+        "description": "Every Single Tuesday !!!",
+        "date": "June 13 - June 14 @ 4pm - 2am",
+        "address": "Flava's Restaurant and Lounge, 3114 3rd Avenue, Bronx, NY 10451, New York, NY",
+        "activity_type": "Entertainment",
+        "latitude": 40.82200006165295,
+        "longitude": -73.91143388990368
+    },
+    {
+        "name": "It\u2019S Taco And Tequila Tuesday\u2019S",
+        "description": "You already know your favorite menu items are available 6 days a week, but ONLY on Tuesdays can you order our Executive Chef Jose Miguel\u2019s DELICIOUS Tacos, ...",
+        "date": "June 13 @ 4pm - 10pm",
+        "address": "Brunch Harlem, 271 West 119th Street, New York, NY 10026",
+        "activity_type": "Entertainment",
+        "latitude": 40.80616338562138,
+        "longitude": -73.9531725323953
+    },
+    {
+        "name": "Burger Tuesdays",
+        "description": "Half Off Burger Tuesdays All night.",
+        "date": "June 13 @ 4pm - 11:30pm",
+        "address": "The Dram Shop Bar, 339 9th Street, Brooklyn, NY 11215, New York, NY",
+        "activity_type": "Entertainment",
+        "latitude": 40.66894031603138,
+        "longitude": -73.98506766192398
+    },
+    {
+        "name": "Just Come! Free Brooklyn Comedy",
+        "description": "A rip-roaring evening of jokes, music, and banter with some of NYC's most celebrated performers in an intimate Brooklyn bar backroom.",
+        "date": "June 13 @ 4:30pm - 6pm. Weekly",
+        "address": "The Graham, 151 Meserole Street, Brooklyn, New York 11206",
+        "activity_type": "Music",
+        "latitude": 40.708143142931114,
+        "longitude": -73.94320959126019
+    },
+    {
+        "name": "9-11 Memorial Museum - Free Admission Tuesdays",
+        "description": "Free Admission Tuesdays at 9-11 Memorial Museum - see INFO below.",
+        "date": "June 13 @ 5pm - 9pm. Weekly",
+        "address": "National September 11 Memorial & Museum, 180 Greenwich St, New York, New York 10007",
+        "activity_type": "Museum",
+        "latitude": 40.711645875397565,
+        "longitude": -74.01329554008392
+    },
+    {
+        "name": "Happy Hour 5-8pm",
+        "description": "Every Day is a Celebration come out and enjoy yourself with our new happy hour menu 5-8pm Tues-Sunday",
+        "date": "June 13 @ 5pm - 8pm",
+        "address": "Gems Bar and Lounge, 1595 Broadway, Brooklyn, NY 11207, New York, NY",
+        "activity_type": "Happy Hour",
+        "latitude": 40.685687366022776,
+        "longitude": -73.91465939467598
+    },
+    {
+        "name": "A Toast To New York",
+        "description": "Join Fort Hamilton, Method Spirits, and Faccia Brutto at Fort Hamilton Distillery in Industry City on Tuesday, June 13th, for an evening of classic cocktails, ...",
+        "date": "June 13 @ 5pm - 8pm",
+        "address": "Fort Hamilton Distillery & Tasting Room, 68 34th St Building 6, 2nd Floor, Brooklyn, NY 11232, New York, NY",
+        "activity_type": "Entertainment",
+        "latitude": 40.60939478594106,
+        "longitude": -74.02848699258246
+    },
+    {
+        "name": "Tapas Tuesdays",
+        "description": "T\ufeffhe Breakers in Williamsburg, Brooklyn has a double-sided, indoor / outdoor bar--and now, every Tuesday, has $5 plates available from their kitchen, Tito ...",
+        "date": "June 13 @ 5pm - 8pm",
+        "address": "The Breakers, 307 Meeker Avenue, Brooklyn, NY 11211, New York, NY",
+        "activity_type": "Bar",
+        "latitude": 40.717348648545546,
+        "longitude": -73.94926535304239
+    },
+    {
+        "name": "Documentary: Pride! Screening All We've Got",
+        "description": "Join NYU Libraries for Documentary: PRIDE!",
+        "date": "June 13 @ 5pm - 7pm",
+        "address": "Bobst Library | Bobst Gallery | 1st Floor, 70 Washington Square South, New York, NY 10012",
+        "activity_type": "Music",
+        "latitude": 40.7295258864661,
+        "longitude": -73.9971532728024
+    },
+    {
+        "name": "Raggaeton Tuesdays",
+        "description": "\u203c\ufe0fDisclaimer: This is not your ordinary taco tuesday\u2026 Toxic tuesdays is a fusion of gourmet soul food, tacos, and refreshing drinks that will make you forget ...",
+        "date": "June 13 - June 14 @ 5pm - 1am",
+        "address": "Hotel RL Brooklyn, 1080 Broadway, Brooklyn, NY 11221, New York, NY",
+        "activity_type": "Food",
+        "latitude": 40.69424823237609,
+        "longitude": -73.9310124584897
+    },
+    {
+        "name": "Toxic Tuesday @ Skinny's Cantina On The Hudson",
+        "description": "Toxic Tuesday's Skinny's Cantina On The Hudson 701 W 133rd St NY, NY 10027 Doors Open 5pm - 1am Happy Hour &amp; Everyone Free w RSVP.",
+        "date": "June 13 - June 14 @ 5pm - 12am",
+        "address": "Skinny's Cantina On The Hudson, 701 West 133rd Street, New York, NY 10027",
+        "activity_type": "Happy Hour",
+        "latitude": 40.82028474687843,
+        "longitude": -73.95895394415814
+    },
+    {
+        "name": "#1 Kompa Party In The World#1 Kompa Party In The Worldkompa Tuesdays Full Menu ...",
+        "description": "#1 KOMPA PARTY IN THE WORLD KOMPA TUESDAYS @ KATRA 217 BOWERY STREET NYC Doors Open 5pm-2am",
+        "date": "June 13 - June 14 @ 5pm - 2am",
+        "address": "Katra Lounge & Event Space, 217 Bowery, New York, NY 10002",
+        "activity_type": "Happy Hour",
+        "latitude": 40.72171793257357,
+        "longitude": -73.99309576599231
+    },
+    {
+        "name": "Tuesdays - Latin Leche Naked Mixxx / Milkchocolatenyc.Com",
+        "description": "Every Tuesday - meet up with other friendly Gay men of all races age 20+ at our Private Men's Membership Club.",
+        "date": "June 13 - June 14 @ 6pm - 12am",
+        "address": "Rainbow Men's Playground Club, 35-06 Northern Blvd @ 36th Street/ 2nd floor. Near R train, Long Island City, NY 11101, New York, NY",
+        "activity_type": "Club",
+        "latitude": 40.74423254397622,
+        "longitude": -73.94183259320577
+    },
+    {
+        "name": "Mediterranean Aperitivo | Bcb Brooklyn | June 13, 2023",
+        "description": "W\ufeffhile you are enjoying BCB Brooklyn, having fun with your colleague, sampling some spirits, why don't you invest 1 hour in elevating your knowledge and your ...",
+        "date": "June 13 @ 6pm - 7pm",
+        "address": "Industry City | Brooklyn, NY, 220 36th St, Brooklyn, NY 11232, New York, NY",
+        "activity_type": "Entertainment",
+        "latitude": 40.65651101912786,
+        "longitude": -74.00682907589582
+    },
+    {
+        "name": "The Conscious Kickback: Blackness Through Spiritual & Religious Practice",
+        "description": "#theConsciousKickback, back again with this months edition.",
+        "date": "June 13 @ 6pm - 9pm",
+        "address": "Therapy Wine Bar 2.0, 260 Malcolm X Boulevard, Brooklyn, NY 11233, New York, NY",
+        "activity_type": "Entertainment",
+        "latitude": 40.68418690814562,
+        "longitude": -73.92954605092447
+    },
+    {
+        "name": "Open Soundpainting Jam",
+        "description": "Calling all Soundpainters, Improvisers, and Soundpainting Performers!",
+        "date": "June 13 @ 6pm - 9pm",
+        "address": "Houghton Hall Arts Community, 22 East 30th Street, New York, NY 10016",
+        "activity_type": "Entertainment",
+        "latitude": 40.745223195645856,
+        "longitude": -73.98535546067667
+    },
+    {
+        "name": "Nyc Singles Age 21-40s Board Game Event",
+        "description": "A $2 donation is appreciated to cover the Meetup fees and purchase of new games for the group.",
+        "date": "June 13 @ 6pm - 10pm",
+        "address": "Downtown Galway Hooker, 133 7th Avenue South, New York, NY",
+        "activity_type": "Entertainment",
+        "latitude": 40.7345532894637,
+        "longitude": -74.00204191080906
+    },
+    {
+        "name": "Dating On Tap: Open-Mic Storytelling & Comedy Night",
+        "description": "Please register your RSVP here at this EVENTBRITE listing Free.",
+        "date": "June 13 @ 6pm - 9pm",
+        "address": "City Swiggers, 320 East 86th Street, New York, NY 10028",
+        "activity_type": "Dating",
+        "latitude": 40.77736974327494,
+        "longitude": -73.95096336903912
+    },
+    {
+        "name": "Afro Chic / Grill & Chill Party At Bedvyne Brew",
+        "description": "E\ufeffvery Tuesday at Bedvyne Brew Afro Chic Dance party combines forces with Wadadli Jerk for a day of Afro music mixed with tasty jerk seafood.",
+        "date": "June 13 - June 14 @ 6pm - 1am",
+        "address": "Bed-Vyne Brew, 370 Tompkins Avenue, Brooklyn, NY 11216, New York, NY",
+        "activity_type": "Music",
+        "latitude": 40.68484438007437,
+        "longitude": -73.94434146593179
+    },
+    {
+        "name": "Salsa Tuesdays At Cobble Fish/Pier 16/South Street Seaport",
+        "description": "Hola mi gente, You made it happen and we now have SALSA Tuesdays by Pier 16 at Cobble Fish \" located at the South Street Seaport each and every Tuesday from ...",
+        "date": "June 13 @ 6pm - 10pm",
+        "address": "Cobble Fish, 89 South Street, New York, NY 10038",
+        "activity_type": "Entertainment",
+        "latitude": 40.70533816305405,
+        "longitude": -74.00262702505965
+    },
+    {
+        "name": "Bingo Mixer",
+        "description": "W\ufeffe love The Bush Bar!",
+        "date": "June 13 @ 6pm - 10pm",
+        "address": "The Bush, 333 Troutman S, Brooklyn, NY 11237, New York, NY",
+        "activity_type": "Bar",
+        "latitude": 40.70515199819494,
+        "longitude": -73.9243891905733
+    },
+    {
+        "name": "Museum Of Drag Lecture + Performance Series",
+        "description": "MoDRAG (The Museum of Drag) is launching its inaugural exhibition in Brooklyn, New York!",
+        "date": "June 13 @ 6pm - 8pm",
+        "address": "The Brick Aux, 628 Metropolitan Avenue, Brooklyn, NY 11211, New York, NY",
+        "activity_type": "Museum",
+        "latitude": 40.7139881523049,
+        "longitude": -73.94813262650196
+    },
+    {
+        "name": "Kompa Tuesdays Number 1 Haitian Party In New York City",
+        "description": "Kompa Tuesday at Katra is now going on for six years and to this day getting bigger and better with a wonderful Haitian Menu and amazing Haitian Drinks while ...",
+        "date": "June 13 - June 14 @ 6pm - 1am",
+        "address": "Katra Lounge & Event Space, 217 Bowery, New York, NY 10002",
+        "activity_type": "Happy Hour",
+        "latitude": 40.72179005362102,
+        "longitude": -73.99314290718715
+    },
+    {
+        "name": "Ludicrously Capacious Comedy Show",
+        "description": "H\ufeffosted by Sarah Franco and Nate Stein....Happy Hour Comedy is now Ludicrously Capacious Comedy....named for beloved Social Climber Tom Wombsgans.",
+        "date": "June 13 @ 6:30pm - 9:30pm",
+        "address": "Starr Bar, 214 Starr Street, Brooklyn, NY 11237, New York, NY",
+        "activity_type": "Happy Hour",
+        "latitude": 40.70491794030243,
+        "longitude": -73.92296369417475
+    },
+    {
+        "name": "Power Up Pilates At Jane Bailey Memorial Garden",
+        "description": "NYRP, with support from lululemon, is excited to welcome The Fit In: Bedford Stuyvesant back to Jane Bailey Memorial Garden to facilitate a new series of ...",
+        "date": "June 13 @ 6:30pm - 7:30pm. Weekly",
+        "address": "Jane Bailey Memorial Garden, 327 Greene Ave, Brooklyn, New York 11238",
+        "activity_type": "Entertainment",
+        "latitude": 40.68784161262164,
+        "longitude": -73.95831496064179
+    },
+    {
+        "name": "Tuesday Evening Run - All Levels Welcome",
+        "description": "Join us for a 5k run (or whatever distance you're comfortable with) around the reservoir.",
+        "date": "June 13 @ 6:30pm - 7:30pm",
+        "address": "Bethesda Terrace, New York, NY",
+        "activity_type": "Entertainment",
+        "latitude": 40.774045127401315,
+        "longitude": -73.97100826682941
+    },
+    {
+        "name": "Pitmasters Ed & Ryan Mitchell In Conversation With Carla Hall",
+        "description": "O\ufeffn Tuesday, June 13, join us for a conversation between authors and pitmasters Ed &amp; Ryan Mitchell and chef and author Carla Hall to celebrate the release ...",
+        "date": "June 13 @ 7pm - 9pm",
+        "address": "Akwaaba Mansion, 347 MacDonough Street, Brooklyn, NY 11233, New York, NY",
+        "activity_type": "Entertainment",
+        "latitude": 40.68248659471373,
+        "longitude": -73.93263587206535
+    },
+    {
+        "name": "Dinner With Nyc Girlfriends At Cadence",
+        "description": "Connect with us on IG and Facebook Instagram Facebook \u201cThe fondest memories are made gathered around the table.",
+        "date": "June 13 @ 7pm - 9pm",
+        "address": "Cadence, 111 E 7th St, New York, NY",
+        "activity_type": "Entertainment",
+        "latitude": 40.726707246325894,
+        "longitude": -73.9843744136049
+    },
+    {
+        "name": "Feeld Presents: One Night Stand-Up Nyc",
+        "description": "Feeld presents: One Night Stand-up A free, new comedy series covering everything from love to lust, ball gags to gags.",
+        "date": "June 13 @ 7pm - 10pm",
+        "address": "The Bell House, 149 7th Street, Brooklyn, NY 11215, New York, NY",
+        "activity_type": "Art",
+        "latitude": 40.67353263090914,
+        "longitude": -73.99165733776897
+    },
+    {
+        "name": "See The Queens Launch Party",
+        "description": "Join us for our official launch party!",
+        "date": "June 13 @ 7pm - 10pm",
+        "address": "VERS \u2014 gay bar nyc, 714 9th Avenue, New York, NY 10019",
+        "activity_type": "Happy Hour",
+        "latitude": 40.76254643032326,
+        "longitude": -73.98909959352054
+    },
+    {
+        "name": "The Chat Room",
+        "description": "The Chat Room Join us for a night of comedy and cringe at The Chat Room !",
+        "date": "June 13 @ 7pm - 10pm",
+        "address": "Easy Lover, 790 Metropolitan Avenue, Brooklyn, NY 11211, New York, NY",
+        "activity_type": "Art",
+        "latitude": 40.71460233112776,
+        "longitude": -73.94254836759936
+    },
+    {
+        "name": "I Am I Session 2: Blending Cultures, From Art To Business. (Masterclass)",
+        "description": "The Immigration and Music Initiative (I AM I), is part of NY Music Month, an initiative by the NYC Mayor's Office of Media and Entertainment.",
+        "date": "June 13 @ 7pm - 10pm",
+        "address": "Power Station at BerkleeNYC, 441 West 53rd Street, New York, NY 10019",
+        "activity_type": "Music",
+        "latitude": 40.76636040685827,
+        "longitude": -73.989600815682
+    },
+    {
+        "name": "In Trembling Boldness Book Launch!",
+        "description": "Join authors Natalie Perkins and Hal Taussig along with surprise guests to discuss this exciting new book that engages ancient writings in unique ways.",
+        "date": "June 13 @ 7pm - 8:30pm",
+        "address": "Riverside Church, Room MLK 411, 91 Claremont Avenue, New York, NY 10027",
+        "activity_type": "Entertainment",
+        "latitude": 40.81183944921247,
+        "longitude": -73.96317193027339
+    },
+    {
+        "name": "Cool Riffings",
+        "description": "Cool Riffings is a standup comedy open mic with comedians that have been on Limestone and SF Sketchfest.",
+        "date": "June 13 @ 7pm - 10pm",
+        "address": "YKA Restaurant Bar and Grill, 467 Rogers Avenue, Brooklyn, NY 11225, New York, NY",
+        "activity_type": "Art",
+        "latitude": 40.6609451008074,
+        "longitude": -73.95337719642518
+    },
+    {
+        "name": "Hungarian Emerging Artists Concert Series",
+        "description": "After its highly successful debut we are excited to announce that the Hungarian Emerging Artists Concert Series returns with a second performance organized by ...",
+        "date": "June 13 @ 7pm - 10pm",
+        "address": "Consulate General of Hungary, 223 East 52nd Street, New York, NY 10022",
+        "activity_type": "Music",
+        "latitude": 40.75685779643006,
+        "longitude": -73.96857621197378
+    },
+    {
+        "name": "How To Sing Free Workshop",
+        "description": "Click link below for full info and to get FREE access to the workshop: [hidden] *Please note that this is FREE, you will need to create an account to ...",
+        "date": "June 13 @ 7pm - 10pm",
+        "address": "New York, NYC Area, New York, NY 10001",
+        "activity_type": "Workshop",
+        "latitude": 40.75378440756834,
+        "longitude": -73.99915550778252
+    },
+    {
+        "name": "Free Drinks !! Tuesday Night 7v7 Pickup - Socceroof Crown Heights",
+        "description": "\u26bd EVENING PICKUP AT SOCCEROOF CROWN HEIGHTS \u26bd Welcome to all players joining the group and event!",
+        "date": "June 13 @ 7pm - 8:30pm",
+        "address": "Socceroof Crown Heights, 1700 Atlantic Ave, Brooklyn, NY, New York, NY",
+        "activity_type": "Art",
+        "latitude": 40.67748172764271,
+        "longitude": -73.93426681636703
+    },
+    {
+        "name": "Free Comedy Show & Bingo With Prizes - Upper East Side",
+        "description": "A completely free comedy show in the heart of the Upper East Side featuring comedians who have appeared on Comedy Central, TruTV, Late Night with Stephen ...",
+        "date": "June 13 @ 7:30pm - 8:30pm",
+        "address": "Iggy's, 1452 2nd Avenue, New York, NY 10021",
+        "activity_type": "Art",
+        "latitude": 40.771024222521746,
+        "longitude": -73.95629520505669
+    },
+    {
+        "name": "General Trivia Night",
+        "description": "Get your team together for General Trivia at The Buttery Bar on Tuesday, June 13 starting 7:30pm and prepare to go FIVE rounds in the ring against the ...",
+        "date": "June 13 @ 7:30pm - 9pm",
+        "address": "The Buttery Bar, 152 Driggs Avenue, Brooklyn, NY 11222, New York, NY",
+        "activity_type": "Bar",
+        "latitude": 40.72323121206062,
+        "longitude": -73.94466707221635
+    },
+    {
+        "name": "Rsvp 4 Free Tixs @ Maxwells",
+        "description": "FREE COMEDY TICKETS !!",
+        "date": "June 13 @ 7:30pm - 10pm",
+        "address": "Maxwell's Central Park, 1325 5th Avenue, New York, NY 10029",
+        "activity_type": "Art",
+        "latitude": 40.7977372148998,
+        "longitude": -73.94836264707156
+    },
+    {
+        "name": "Taylor Swift Trivia",
+        "description": "Taylor is known for her incredible voice and her award winning songwriting; we all know the song titles and the lyrics, but how well do you know the singer ...",
+        "date": "June 13 @ 7:30pm - 9pm",
+        "address": "Home Base Bistro, 416 Third Avenue, New York, NY 10016",
+        "activity_type": "Trivia",
+        "latitude": 40.74296232751641,
+        "longitude": -73.98056627655079
+    },
+    {
+        "name": "Harry Potter (Movie) Trivia",
+        "description": "\"So you're gonna suffer...",
+        "date": "June 13 @ 8pm - 9:30pm",
+        "address": "McCarren Parkhouse, 855 Lorimer Street, Brooklyn, NY 11222, New York, NY",
+        "activity_type": "Entertainment",
+        "latitude": 40.72199057880036,
+        "longitude": -73.95190715656331
+    },
+    {
+        "name": "Yo! Mtv Bingo - Alligator Lounge",
+        "description": "Score a Rock N Roll Bingo and win vintage LPs, fabulous prizes, and free booze !",
+        "date": "June 13 @ 8pm - 11pm",
+        "address": "Alligator Lounge, 600 Metropolitan Avenue, Brooklyn, NY 11211, New York, NY",
+        "activity_type": "Lounge",
+        "latitude": 40.71389198247309,
+        "longitude": -73.94894142920218
     }
 ]
