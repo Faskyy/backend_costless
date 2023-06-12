@@ -144,9 +144,7 @@ def infer_activity_type(event_name, event_description):
 
 @app.route('/events')
 def get_events():
-    today = date.today().strftime("%Y-%m-%d")
-    events = load_events_from_file(get_events_filename())
-    today_events = [event for event in events if event['date'] == today]
+    today_events = load_events_from_file(get_events_filename())
 
     all_events = {
         "today": today_events,
