@@ -278,14 +278,12 @@ def scrape_page(url):
     return event_list
 
 
-
-
 def parse_event(event):
     # Get event details
     name = event['name']
-    description = event['description']
-    date_str = event['date']
-    address = html.unescape(event['address'])  # Decode HTML entities in the address field
+    description = html.unescape(event['description'])  # Decode HTML entities in the description field
+    date_str = html.unescape(event['date'])  # Decode HTML entities in the date field
+    address = html.unescape(event['address']) 
 
     # Add "New York, NY" to addresses that don't have it
     if "New York" not in address:
@@ -333,13 +331,16 @@ def parse_event(event):
     if activity_type is None:
         activity_type = 'Entertainment'
 
+    city = infer_city_from_address(address)
+
     # Create the event dictionary
     event_dict = {
         'name': name,
         'description': first_sentence,
         'date': date_str,
         'address': address,
-        'activity_type': activity_type  # Add inferred activity type to the dictionary
+        'activity_type': activity_type,  # Add inferred activity type to the dictionary
+        'city': city
     }
 
     # Add latitude and longitude if they are not None
@@ -354,7 +355,24 @@ def parse_event(event):
 def is_address_valid(street, city, state, zip_code):
     return any([street, city, state, zip_code])
 
-import requests
+def infer_city_from_address(address):
+    # Split the address into parts
+    parts = address.split(',')
+
+    # Look for New York in the address parts
+    for part in parts:
+        part = part.strip()
+        if part.lower() == 'new york':
+            return 'New York'
+
+    # If New York is not found, check for Philadelphia
+    for part in parts:
+        part = part.strip()
+        if part.lower() == 'philadelphia':
+            return 'Philadelphia'
+
+    # If neither New York nor Philadelphia is found, default to New York
+    return 'New York'
 
 def get_coordinates(street, city, state, zip_code):
     if not is_address_valid(street, city, state, zip_code):
