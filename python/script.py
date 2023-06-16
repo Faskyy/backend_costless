@@ -283,6 +283,7 @@ def parse_event(event):
     name = event['name']
     description = html.unescape(event['description'])  # Decode HTML entities in the description field
     date_str = html.unescape(event['date'])  # Decode HTML entities in the date field
+    date_str = re.sub(r'&commat', '@', date_str)
     address = html.unescape(event['address']) 
 
     # Add "New York, NY" to addresses that don't have it
