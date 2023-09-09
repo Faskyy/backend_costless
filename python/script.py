@@ -485,7 +485,7 @@ if __name__ == '__main__':
     unique_event_names = set(event['name'] for event in existing_events)
 
     # Scrape pages
-    for page in range(1, 11):  # Scrape pages 1-10
+    for page in range(1, 21):  # Scrape pages 1-10
         url = f"{base_url_1.format(page)}&{query_params}"
         scraped_events = scrape_page(url)
         for event in scraped_events:
@@ -496,7 +496,7 @@ if __name__ == '__main__':
                 new_events_count += 1
                 geocoding_requests += 1
 
-    for page in range(1, 21):  # Scrape pages 1-20
+    for page in range(1, 31):  # Scrape pages 1-20
         url = base_url_2.format(current_date, current_date, page)
         scraped_events = scrape_page(url)
         for event in scraped_events:
